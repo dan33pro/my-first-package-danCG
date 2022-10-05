@@ -1,13 +1,13 @@
 # my-first-package-danCG
 Random string messages
 
-## Instalar
+## Install
 
 ```npm
 npm i 021.2-my-first-package-dancg
 ```
 
-## Usar
+## Usage
 
 ```bash
 my-first-package-danCG
@@ -88,3 +88,5 @@ un commit y subismos cambios, luego corremos con la versión que consideres:
 ```npm
 npm version 1.0.1
 ```
+
+Y volvemos a usar `npm publish`
