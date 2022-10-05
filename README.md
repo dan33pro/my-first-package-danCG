@@ -1,13 +1,13 @@
 # my-first-package-danCG
 Random string messages
 
-## Install
+## Instalar
 
 ```npm
 npm i 021.2-my-first-package-dancg
 ```
 
-## Usage
+## Usar
 
 ```bash
 my-first-package-danCG
