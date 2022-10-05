@@ -71,7 +71,7 @@ para reconocer el paquete dentro del listado de paquetes de npm.
 ## Instalar
 
 ```
-npm install -g my-first-package-danCG
+npm i 021.2-my-first-package-dancg
 ```
 
 ## Usar
