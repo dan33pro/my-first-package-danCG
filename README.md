@@ -1,6 +1,18 @@
 # my-first-package-danCG
 Random string messages
 
+## Instalar
+
+```npm
+npm i 021.2-my-first-package-dancg
+```
+
+## Usar
+
+```bash
+my-first-package-danCG
+```
+
 ## Crear un paquete
 
 1. Lo primero es verificar que el nombre del repositorio no esta
@@ -68,14 +80,11 @@ para reconocer el paquete dentro del listado de paquetes de npm.
 
     - `npm publish`
 
-## Instalar
+## Versiones
 
-```
-npm i 021.2-my-first-package-dancg
-```
+Para cambiar de versiones debes tener en cuenta [Versionado Semántico](https://semver.org/lang/es/), hacemos
+un commit y subismos cambios, luego corremos con la versión que consideres:
 
-## Usar
-
-```
-my-first-package-danCG
+```npm
+npm version 1.0.1
 ```
