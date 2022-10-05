@@ -1,6 +1,6 @@
 {
   "name": "021.2-my-first-package-dancg",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Random string messages",
   "main": "index.js",
   "scripts": {
